@@ -1,6 +1,6 @@
 {
   "name": "is-lower-case",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check if a string is lower cased",
   "main": "is-lower-case.js",
   "scripts": {
